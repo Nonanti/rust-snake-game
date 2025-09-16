@@ -3,7 +3,7 @@
 Terminal snake game written in Rust
 
 ## Demo
-
+![Demo](snakedemo.gif)
 
 ## Build
 
